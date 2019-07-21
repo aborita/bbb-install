@@ -86,7 +86,7 @@ Setup a coturn server
     ./bbb-install.sh -c turn.example.com:1234324 -e info@example.com
 
 SUPPORT:
-     Source: https://github.com/bigbluebutton/bbb-install
+     Source: https://github.com/aborita/bbb-install
    Commnity: https://bigbluebutton.org/support
 
 HERE
